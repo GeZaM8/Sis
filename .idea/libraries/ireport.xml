@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="ireport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ireport/jasperreports-4.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/poi-3.7-20101029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/jxl-2.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/core-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-digester3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ireport/commons-digester-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
